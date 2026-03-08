@@ -1,0 +1,10 @@
+# data.yaml — YOLO dataset configuration
+
+train: C:\Users\ATHIRA\.gemini\antigravity\scratch\helmet-detection\dataset\train\images
+val: C:\Users\ATHIRA\.gemini\antigravity\scratch\helmet-detection\dataset\val\images
+
+# Number of classes
+nc: 2
+
+# Class names (index 0 = Helmet, index 1 = No Helmet)
+names: ['Helmet', 'No Helmet']
