@@ -1,9 +1,9 @@
 # 🛡️ Helmet Detection System using YOLOv8
 
-An AI-powered real-time helmet detection system built with **YOLOv8**, **OpenCV**, and **PyTorch**.
+Real-time helmet detection system built with **YOLOv8**, **OpenCV**, and **PyTorch**.
 Detects whether a person is wearing a **Helmet** or **No Helmet** in images, videos, and live webcam feeds — displaying accurate bounding boxes with color-coded labels.
 
-> Built for the **AI-Based Helmet Detection System using YOLO** competition at Saintgits.
+> Built for the **Helmet Detection System using YOLOv8 and Python** competition.
 
 ---
 
@@ -95,6 +95,7 @@ python detect.py --source path/to/image.jpg --conf 0.4 --save
 - **OpenCV** — image/video processing and visualization
 - **Roboflow** — dataset sourcing
 
-## 👩‍💻 Author
+## Team
 
-Built for the **AI-Based Helmet Detection System using YOLO** competition at Saintgits.
+Reeba Reji,
+Athira Ajkumar
